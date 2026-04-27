@@ -1,0 +1,6 @@
+numpy>=2.1
+pillow>=11.0
+pygame>=2.6
+pyscroll>=2.31
+PyTMX>=3.32
+pilkit>=3.0
